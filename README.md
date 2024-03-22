@@ -1,0 +1,1 @@
+Quick-start with https://ads.vk.com/en/help/articles/partner_g_privacy_security

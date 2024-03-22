@@ -1,0 +1,20 @@
+{
+    "name": "PluginSet.MyTrack.Editor",
+    "rootNamespace": "",
+    "references": [
+        "PluginSet.MyTrack",
+        "PluginSet.Core",
+        "PluginSet.Core.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
